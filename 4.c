@@ -16,7 +16,7 @@ int sumDigits(int *num)
     return sum;
 }
 
-// Проверка функции:
+// Проверка скрипта:
 void main() 
 {
     // Создаем переменную "num":
